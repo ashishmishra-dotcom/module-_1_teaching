@@ -1,4 +1,5 @@
 **ABOUT THE PROJECT AND FUTURE SCOPE**
+
 In most countries, students use calculators for schoolwork. There was
 some initial resistance to the idea out of fear that basic arithmetic skills
 would suffer. There remains disagreement about the importance of
@@ -22,6 +23,7 @@ learning tool, and it can slow down students in exam conditions as they
 check even the most trivial result on a calculator.
 
 **FUTURE SCOPE**
+
 Our project will be able to implement in future after making some
 changes and modifications as we make our project at a very low level.
 So the modifications that can be done in our project are:
