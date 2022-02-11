@@ -1,5 +1,5 @@
-**Scientific Calculator :
-**The calculator was written by Rolf Howarth in early 1996.
+**Scientific Calculator :**
+The calculator was written by Rolf Howarth in early 1996.
 A fully featured scientific calculator with proper operator
 precedence is implemented, including trig functions and
 logarithms, factorials, 12 levels of parentheses, logs to base 2
@@ -8,7 +8,8 @@ operators, hex, octal, binary and ASCII display.
 The calculator is written in JavaScript and you are welcome to
 view the JavaScript source (visible within the HTML page) for
 personal educational purposes as long as you recognize that it
-is copyrighted and not in the public domain. This calculator is
+is copyrighted and not in the public domain it can me modified in other language also.
+This calculator is
 now available as part of Hummingbird's Enterprise Information
 Portal. All enquiries regarding licensing the calculator should
 be directed to Hummingbird Ltd.In most countries, students use calculators for schoolwork. There was
