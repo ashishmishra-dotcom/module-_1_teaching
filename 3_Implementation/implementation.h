@@ -18,4 +18,3 @@ int tann();
 int cosec();
 int sec();
 int cot();
-int main()
